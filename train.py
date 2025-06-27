@@ -64,7 +64,7 @@ joblib.dump(model, 'model.pkl')
 y_pred = model.predict(X_test)
 
 # Test predictions on random sample
-sample = X.sample(20, random_state=42)
+sample = X.sample(5, random_state=42)
 sample_scaled = scaler.transform(sample)
 predictions = model.predict(sample_scaled)
 

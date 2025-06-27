@@ -1,0 +1,220 @@
+"ID","Name","Sex","Age","Height","Weight","Team","NOC","Games","Year","Season","City","Sport","Event","Medal"
+"1","Neeraj Chopra","M",26,183,86,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Javelin Throw","Silver"
+"2","Kishore Jena","M",28,185,80,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Javelin Throw",NA
+"3","Avinash Sable","M",29,172,60,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 3000m Steeplechase",NA
+"4","Tajinderpal Singh Toor","M",29,185,120,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Shot Put",NA
+"5","Praveen Chithravel","M",23,178,70,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Triple Jump",NA
+"6","Abdulla Aboobacker","M",28,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Triple Jump",NA
+"7","Sarvesh Kushare","M",29,180,70,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's High Jump",NA
+"8","Akshdeep Singh","M",24,175,65,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 20km Race Walk",NA
+"9","Vikash Singh","M",28,170,60,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 20km Race Walk",NA
+"10","Paramjeet Singh Bisht","M",27,172,62,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 20km Race Walk",NA
+"11","Muhammed Anas","M",29,177,70,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"11","Muhammed Ajmal","M",26,180,72,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"12","Amoj Jacob","M",26,183,75,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"13","Santhosh Kumar Tamilarasan","M",25,178,68,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"14","Rajesh Ramesh","M",25,174,70,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"15","Mijo Chacko Kurian","M",24,180,70,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's 4x400m Relay",NA
+"16","Suraj Panwar","M",23,170,60,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Mixed Marathon Race Walk",NA
+"17","Jeswin Aldrin","M",22,186,75,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Men's Long Jump",NA
+"18","Kiran Pahal","F",22,170,58,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 400m",NA
+"19","Parul Chaudhary","F",28,165,50,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 3000m Steeplechase",NA
+"19","Parul Chaudhary","F",28,165,50,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 5000m",NA
+"20","Jyothi Yarraji","F",25,168,55,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 100m Hurdles",NA
+"21","Annu Rani","F",32,170,65,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's Javelin Throw",NA
+"22","Jyothika Sri Dandi","F",24,165,55,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 4x400m Relay",NA
+"23","Subha Venkatesan","F",25,160,52,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 4x400m Relay",NA
+"24","Vithya Ramraj","F",26,168,54,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 4x400m Relay",NA
+"25","MR Poovamma","F",34,173,60,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 4x400m Relay",NA
+"26","Prachi","F",29,165,56,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 4x400m Relay",NA
+"27","Priyanka Goswami","F",28,162,52,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 20km Race Walk",NA
+"27","Priyanka Goswami","F",28,162,52,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Mixed Marathon Race Walk",NA
+"28","Ankita Dhyani","F",24,160,50,"India","IND","2024 Summer",2024,"Summer","Paris","Athletics","Women's 5000m",NA
+"29","Dhiraj Bommadevara","M",22,180,NA,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Individual Recurve",NA
+"29","Dhiraj Bommadevara","M",22,180,NA,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Team Recurve",NA
+"29","Dhiraj Bommadevara","M",22,180,NA,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Mixed Team Recurve",NA
+"30","Tarundeep Rai","M",40,174,60,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Individual Recurve",NA
+"30","Tarundeep Rai","M",40,174,60,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Team Recurve",NA
+"31","Pravin Jadhav","M",28,174,68,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Individual Recurve",NA
+"31","Pravin Jadhav","M",28,174,68,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Men's Team Recurve",NA
+"32","Bhajan Kaur","F",18,170,48,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Individual Recurve",NA
+"32","Bhajan Kaur","F",18,170,48,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Team Recurve",NA
+"33","Deepika Kumari","F",30,160,50,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Individual Recurve",NA
+"33","Deepika Kumari","F",30,160,50,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Team Recurve",NA
+"34","Ankita Bhakat","F",26,162,54,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Individual Recurve",NA
+"34","Ankita Bhakat","F",26,162,54,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Women's Team Recurve",NA
+"34","Ankita Bhakat","F",26,162,54,"India","IND","2024 Summer",2024,"Summer","Paris","Archery","Mixed Team Recurve",NA
+"35","Amit Panghal","M",29,157,50,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Men's 51kg",NA
+"36","Nishant Dev","M",24,178,71,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Men's 71kg",NA
+"37","Nikhat Zareen","F",28,165,50,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Women's 50kg",NA
+"38","Preeti Pawar","F",21,162,54,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Women's 54kg",NA
+"39","Jaismine Lamboria","F",22,174,57,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Women's 57kg",NA
+"40","Lovlina Borgohain","F",26,178,75,"India","IND","2024 Summer",2024,"Summer","Paris","Boxing","Women's 75kg",NA
+"41","HS Prannoy","M",32,179,73,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Men's Singles",NA
+"42","Lakshya Sen","M",23,179,65,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Men's Singles",NA
+"43","Satwiksairaj Rankireddy","M",24,183,77,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Men's Doubles",NA
+"44","Chirag Shetty","M",27,187,75,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Men's Doubles",NA
+"45","PV Sindhu","F",28,179,65,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Women's Singles",NA
+"46","Ashwini Ponnappa","F",34,164,60,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Women's Doubles",NA
+"47","Tanisha Crasto","F",21,165,60,"India","IND","2024 Summer",2024,"Summer","Paris","Badminton","Women's Doubles",NA
+"48","Anush Agarwalla","M",27,175,75,"India","IND","2024 Summer",2024,"Summer","Paris","Equestrian","Dressage",NA
+"49","Gaganjeet Bhullar","M",36,175,72,"India","IND","2024 Summer",2024,"Summer","Paris","Golf","Men's Individual",NA
+"50","Shubhankar Sharma","M",29,168,65,"India","IND","2024 Summer",2024,"Summer","Paris","Golf","Men's Individual",NA
+"51","Aditi Ashok","F",26,165,58,"India","IND","2024 Summer",2024,"Summer","Paris","Golf","Women's Individual",NA
+"52","Diksha Dagar","F",25,170,62,"India","IND","2024 Summer",2024,"Summer","Paris","Golf","Women's Individual",NA
+"53","P.R. Sreejesh","M",35,182,75,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"54","Jarmanpreet Singh","M",28,185,80,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"55","Amit Rohidas","M",29,170,72,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"56","Harmanpreet Singh","M",28,178,74,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"57","Sumit","M",30,178,75,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"58","Sanjay","M",26,176,72,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"59","Rajkumar Pal","M",28,177,73,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"60","Shamsher Singh","M",27,179,74,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament","Bronze"
+"61","Manpreet Singh","M",31,183,78,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"62","Hardik Singh","M",27,181,75,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"63","Vivek Sagar Prasad","M",26,175,70,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"64","Abhishek","M",24,174,69,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"65","Sukhjeet Singh","M",27,177,72,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"66","Lalit Kumar Upadhyay","M",29,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"67","Mandeep Singh","M",29,174,72,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"68","Gurjant Singh","M",26,178,74,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Tournament",NA
+"69","Nilakanta Sharma","M",30,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Reserves",NA
+"70","Jugraj Singh","M",29,178,73,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Reserves",NA
+"71","Krishan Bahadur Pathak","M",26,175,70,"India","IND","2024 Summer",2024,"Summer","Paris","Hockey","Men's Reserves",NA
+"72","Tulika Maan","F",27,165,75,"India","IND","2024 Summer",2024,"Summer","Paris","Judo","Women's +78kg",NA
+"73","Balraj Panwar","M",23,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Rowing","Men's Single Scull",NA
+"74","Vishnu Saravanan","M",25,175,70,"India","IND","2024 Summer",2024,"Summer","Paris","Sailing","Men's Dinghy",NA
+"75","Nethra Kumanan","F",27,165,60,"India","IND","2024 Summer",2024,"Summer","Paris","Sailing","Women's Dinghy",NA
+"76","Sandeep Singh","M",29,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 10m Air Rifle",NA
+"77","Arjun Babuta","M",23,175,68,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 10m Air Rifle",NA
+"78","Aishwary Tomar","M",21,172,65,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 50m Rifle 3 Positions",NA
+"79","Swapnil Kusale","M",24,175,66,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 50m Rifle 3 Positions",NA
+"80","Sarabjot Singh","M",23,178,70,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 10m Air Pistol","Bronze"
+"81","Arjun Cheema","M",30,178,72,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 10m Air Pistol",NA
+"82","Anish Bhanwal","M",24,175,68,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 25m Rapid Fire Pistol",NA
+"83","Vijayveer Sidhu","M",22,172,65,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's 25m Rapid Fire Pistol",NA
+"84","Prithviraj Tondaiman","M",28,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's Trap",NA
+"85","Anantjeet Singh Naruka","M",29,180,75,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Men's Skeet",NA
+"86","Elavenil Valarivan","F",23,165,55,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 10m Air Rifle",NA
+"87","Ramita","F",24,164,54,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 10m Air Rifle",NA
+"88","Sift Kaur Samra","F",24,165,55,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 50m Rifle 3 Positions",NA
+"89","Anjum Moudgil","F",30,168,58,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 50m Rifle 3 Positions",NA
+"90","Rhythm Sangwan","F",21,162,53,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 10m Air Pistol",NA
+"91","Manu Bhaker","F",23,168,60,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 10m Air Pistol","Bronze"
+"91","Manu Bhaker","F",23,168,60,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","10m Air Pistol Mixed Team","Bronze"
+"92","Esha Singh","F",24,165,58,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's 25m Pistol",NA
+"93","Rajeshwari Kumari","F",27,168,60,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's Trap",NA
+"94","Shreyasi Singh","F",30,170,58,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's Trap",NA
+"95","Maheshwari Chauhan","F",26,165,57,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's Skeet",NA
+"96","Raiza Dhillon","F",27,165,55,"India","IND","2024 Summer",2024,"Summer","Paris","Shooting","Women's Skeet",NA
+"97","Srihari Nataraj","M",25,183,75,"India","IND","2024 Summer",2024,"Summer","Paris","Swimming","Men's 100m Backstroke",NA
+"98","Dhinidhi Desinghu","F",19,168,58,"India","IND","2024 Summer",2024,"Summer","Paris","Swimming","Women's 200m Freestyle",NA
+"99","Sharath Kamal","M",39,175,70,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Men's Singles and Team",NA
+"100","Harmeet Desai","M",31,178,72,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Men's Singles and Team",NA
+"101","Manav Thakkar","M",26,178,70,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Men's Singles and Team",NA
+"102","Manika Batra","F",30,165,60,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Women's Singles and Team",NA
+"103","Sreeja Akula","F",22,165,58,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Women's Singles and Team",NA
+"104","Archana Kamath","F",25,170,60,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Women's Singles and Team",NA
+"105","Sathiyan G","M",29,178,72,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Men's Reserves",NA
+"106","Ayhika Mukherjee","F",26,165,58,"India","IND","2024 Summer",2024,"Summer","Paris","Table Tennis","Women's Reserves",NA
+"107","Rohan Bopanna","M",43,188,80,"India","IND","2024 Summer",2024,"Summer","Paris","Tennis","Men's Doubles",NA
+"108","N Sriram Balaji","M",35,178,75,"India","IND","2024 Summer",2024,"Summer","Paris","Tennis","Men's Doubles",NA
+"109","Sumit Nagal","M",28,178,72,"India","IND","2024 Summer",2024,"Summer","Paris","Tennis","Men's Singles",NA
+"110","Mirabai Chanu","F",30,149,49,"India","IND","2024 Summer",2024,"Summer","Paris","Weightlifting","Women's 49kg",NA
+"111","Aman Sehrawat","M",22,170,57,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Men's 57kg","Bronze"
+"112","Vinesh Phogat","F",30,165,50,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Women's 50kg",NA
+"113","Antim Panghal","F",22,160,53,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Women's 53kg",NA
+"114","Anshu Malik","F",25,160,57,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Women's 57kg",NA
+"115","Nisha Dahiya","F",26,168,68,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Women's 68kg",NA
+"116","Reetika Hooda","F",25,172,76,"India","IND","2024 Summer",2024,"Summer","Paris","Wrestling","Women's 76kg",NA
+"117","Dutee Chand","F",26,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 100m","NA"
+"117","Dutee Chand","F",26,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 200m","NA"
+"118","M.P. Jabir","M",26,180,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 400m Hurdles","NA"
+"119","Avinash Sable","M",26,170,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 3000m Steeplechase","NA"
+"119","Avinash Sable","M",26,170,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 3000m Steeplechase","NA"
+"120","Amoj Jacob","M",25,177,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 400m","NA"
+"120","Amoj Jacob","M",25,177,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 4x400m Relay","NA"
+"121","Rahul Rohilla","M",27,173,65,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 20km Race Walk","NA"
+"122","Priyanka Goswami","F",27,157,48,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 20km Race Walk","NA"
+"123","Bhawna Jat","F",29,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 20km Race Walk","NA"
+"124","Sandeep Kumar","M",29,172,62,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 20km Race Walk","NA"
+"125","Gurpreet Singh","M",29,178,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 50km Race Walk","NA"
+"126","Noah Nirmal Tom","M",25,180,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 4x400m Relay","NA"
+"127","Arokia Rajiv","M",28,178,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 4x400m Relay","NA"
+"128","Muhammad Anas","M",27,175,67,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 4x400m Relay","NA"
+"129","Naganathan Pandi","M",28,178,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's 4x400m Relay","NA"
+"130","Revathi Veeramani","F",21,168,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 4x400m Relay","NA"
+"131","Subha Venkatesan","F",26,168,56,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Women's 4x400m Relay","NA"
+"132","Neeraj Chopra","M",23,183,86,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's Javelin Throw","Gold"
+"133","Shivpal Singh","M",26,185,90,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's Javelin Throw","NA"
+"134","Tajinderpal Singh Toor","M",26,190,105,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's Shot Put","NA"
+"135","Murali Sreeshankar","M",23,178,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Athletics","Men's Long Jump","NA"
+"136","Srihari Nataraj","M",22,183,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Swimming","Men's 100m Backstroke","NA"
+"137","Dhinidhi Desinghu","F",19,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Swimming","Women's 200m Freestyle","NA"
+"138","Mirabai Chanu","F",27,150,49,"India","IND","2020 Summer",2021,"Summer","Tokyo","Weightlifting","Women's 49kg","Silver"
+"139","Rohan Bopanna","M",43,185,78,"India","IND","2020 Summer",2021,"Summer","Tokyo","Tennis","Men's Doubles","NA"
+"140","N Sriram Balaji","M",32,178,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Tennis","Men's Doubles","NA"
+"141","Sumit Nagal","M",26,175,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Tennis","Men's Singles","NA"
+"142","Sharath Kamal","M",38,176,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Men's Singles","NA"
+"143","Harmeet Desai","M",30,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Men's Singles","NA"
+"144","Manav Thakkar","M",25,178,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Men's Singles","NA"
+"145","Manika Batra","F",27,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Women's Singles","NA"
+"146","Sreeja Akula","F",23,162,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Women's Singles","NA"
+"147","Archana Kamath","F",28,168,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Women's Singles","NA"
+"148","Sathiyan G","M",29,175,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Men's Singles Reserve","NA"
+"149","Ayhika Mukherjee","F",24,160,54,"India","IND","2020 Summer",2021,"Summer","Tokyo","Table Tennis","Women's Singles Reserve","NA"
+"150","P R Sreejesh","M",32,181,78,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"151","Jarmanpreet Singh","M",25,180,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"152","Amit Rohidas","M",30,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"153","Harmanpreet Singh","M",29,177,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"154","Sumit","M",27,178,74,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"155","Sanjay","M",28,175,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"156","Rajkumar Pal","M",29,174,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"157","Shamsher Singh","M",27,178,74,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"158","Manpreet Singh","M",31,183,80,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"159","Hardik Singh","M",26,175,73,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"160","Vivek Sagar Prasad","M",22,175,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"161","Abhishek","M",26,178,72,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"162","Sukhjeet Singh","M",23,180,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"163","Lalit Kumar Upadhyay","M",26,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"164","Mandeep Singh","M",30,180,74,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"165","Gurjant Singh","M",23,181,76,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team","Bronze"
+"166","Nilakanta Sharma","M",27,178,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team Reserve","Bronze"
+"167","Jugraj Singh","M",22,183,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team Reserve","Bronze"
+"168","Krishan Bahadur Pathak","M",27,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Hockey","Men's Team Reserve","Bronze"
+"169","Aman Sehrawat","M",21,165,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Men's 57kg","NA"
+"170","Bajrang Punia","M",28,168,65,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Men's 65kg","Bronze"
+"171","Vinesh Phogat","F",28,160,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Women's 50kg","Bronze"
+"172","Antim Panghal","F",20,165,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Women's 53kg","NA"
+"173","Anshu Malik","F",23,160,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Women's 57kg","NA"
+"174","Nisha Dahiya","F",22,162,59,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Women's 68kg","NA"
+"175","Reetika Hooda","F",25,165,62,"India","IND","2020 Summer",2021,"Summer","Tokyo","Wrestling","Women's 76kg","NA"
+"176","Amit Panghal","M",25,168,56,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Men's 51kg","NA"
+"177","Lovlina Borgohain","F",26,173,69,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Women's 75kg","Bronze"
+"178","Nishant Dev","M",23,170,63,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Men's 71kg","NA"
+"179","Nikhat Zareen","F",27,165,54,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Women's 50kg","NA"
+"180","Jaismine Lamboria","F",25,168,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Women's 57kg","NA"
+"181","Preeti Pawar","F",24,167,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Boxing","Women's 54kg","NA"
+"182","HS Prannoy","M",30,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Men's Singles","NA"
+"183","Lakshya Sen","M",22,178,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Men's Singles","NA"
+"184","Satwiksairaj Rankireddy","M",24,183,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Men's Doubles","NA"
+"185","Chirag Shetty","M",26,180,74,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Men's Doubles","NA"
+"186","PV Sindhu","F",26,165,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Women's Singles","Silver"
+"187","Ashwini Ponnappa","F",31,170,65,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Women's Doubles","NA"
+"188","Tanisha Crasto","F",21,165,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Badminton","Women's Doubles","NA"
+"189","Atanu Das","M",30,180,75,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Men's Individual Recurve","NA"
+"190","Deepika Kumari","F",29,160,50,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Women's Individual Recurve","NA"
+"191","Pravin Jadhav","M",27,174,60,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Men's Individual Recurve","NA"
+"192","Mangal Singh Champia","M",37,176,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Men's Team Recurve","NA"
+"193","Rishabh Yadav","M",21,175,65,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Men's Team Recurve","NA"
+"194","Jyothi Surekha Vennam","F",28,168,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Archery","Women's Team Recurve","NA"
+"195","Saurabh Chaudhary","M",21,170,65,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Men's 10m Air Pistol","NA"
+"196","Abhishek Verma","M",30,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Men's 10m Air Pistol","NA"
+"197","Manu Bhaker","F",21,160,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Women's 10m Air Pistol","NA"
+"198","Elavenil Valarivan","F",20,165,55,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Women's 10m Air Rifle","NA"
+"199","Rahi Sarnobat","F",31,165,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Women's 25m Pistol","NA"
+"200","Apurvi Chandela","F",29,165,58,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Women's 10m Air Rifle","NA"
+"201","Divyansh Singh Panwar","M",22,175,68,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Men's 10m Air Rifle","NA"
+"202","Rajan Sushil Kumar","M",24,172,67,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Men's Trap","NA"
+"203","Anjum Moudgil","F",28,162,56,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Women's 50m Rifle 3 Positions","NA"
+"204","Sanjeev Rajput","M",36,175,70,"India","IND","2020 Summer",2021,"Summer","Tokyo","Shooting","Men's 50m Rifle 3 Positions","NA"
